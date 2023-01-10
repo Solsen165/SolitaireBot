@@ -13,4 +13,4 @@ The bot repeats this algorithm until all piles are complete.
 If it gets stuck, it will try to put cards in the piles out of order to try to reveal new cards.
 
 ### Note:
-The bot doesn't win each time, because the bot doesn't have any deep strategy and not all solitare games are winnable to begin with.
+The bot doesn't win each time, because it doesn't have any deep strategy and not all solitare games are winnable to begin with.
